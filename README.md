@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fimDevz
 - 👀 I’m interested in Mobile Application
 - 🌱 I’m currently learning FLutter
-- 💞️ I’m looking to collaborate on any FLutter Project
+- 💞️ I’m looking to collaborate on any Flutter Project
 - 📫 How to reach me 03131565344
 
 <!---
