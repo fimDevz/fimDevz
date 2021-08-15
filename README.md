@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning FLutter
 - 💞️ I’m looking to collaborate on any Flutter Project
 - 📫 How to reach me 03131565344
+- https://squeuetech.com/
 
 <!---
 fimDevz/fimDevz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
